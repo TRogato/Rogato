@@ -1,6 +1,6 @@
 # Rogato
 
-<p align="center">
+<!--<p align="center">
 <img alt="Discord" src="https://img.shields.io/discord/769953234965889026?label=Pessoas%20no%20Discord&style=plastic">
 </p>
 
@@ -64,7 +64,7 @@
   </a>
                 <a href="https://github.com/badtuxx/convencendo-seu-chefe">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/badtuxx/convencendo-seu-chefe?label=convencendo-seu-chefe&style=social">
-</p>
+</p>-->
 
 
 ### :sound: Seja muito bem-vindo, seja muito bem-vinda a mais um vídeo aqui no canal... Ops, lugar errado. 
