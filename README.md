@@ -1,4 +1,4 @@
-# 👩🏻‍💻 T. Rogato
+# 🔛 T. Rogato
 
 
 **`Desenvolvedor FullStack`**
