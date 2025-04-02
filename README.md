@@ -77,7 +77,8 @@ Opa, meu nome é Tiago.
 
 - 💬 Gosto de cerveja, principalmente IPA, então além dos tópicos aqui já mencionado, podemos ainda falar sobre cerveja, é claro! :D
 
-
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="tiago-rogato-da-silveira-095563b6" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/tiago-rogato-da-silveira-095563b6?trk=profile-badge">Tiago Rogato da Silveira</a></div>
+              
 
 <!--
 **badtuxx/badtuxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
