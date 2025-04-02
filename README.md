@@ -1,12 +1,26 @@
-# Rogato
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 T. Rogato
 
-**`Desenvolvedora FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+**`Desenvolvedor FullStack`**
+
+### :sound: Seja muito bem-vindo. 
+
+Opa, meu nome é Tiago. 
+
+- :rocket: Atualmente trabalho com um Grupo de Empresas.
+
+- :tv: Gosto de falar sobre Linux, DevOps, Docker, Kubernetes, automação, AI e muito mais. obs: Sempre buscando novas ideias. 
+
+- 💬 Gosto de cerveja, principalmente IPA, então além dos tópicos aqui já mencionado, podemos ainda falar sobre cerveja, é claro! :D
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="tiago-rogato-da-silveira-095563b6" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/tiago-rogato-da-silveira-095563b6?trk=profile-badge">LinkedIn - Tiago Rogato da Silveira</a></div>
+
+<br>
+
+<br>
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+   <!-- <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
@@ -26,12 +40,12 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    </a>-->
+    <a href="https://github.com/Trogato?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Trogato?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -164,29 +178,19 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=TRogato&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trogato&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
 
 
 
-### :sound: Seja muito bem-vindo, seja muito bem-vinda a mais um vídeo aqui no canal... Ops, lugar errado. 
 
-Opa, meu nome é Tiago. 
-
-- :rocket: Atualmente trabalho com um Grupo de empresas.
-
-- :tv: Gosto de falar sobre Linux, DevOps, Docker, Kubernetes, automação, AI e muito mais. obs: Sempre buscando novas ideias. 
-
-- 💬 Gosto de cerveja, principalmente IPA, então além dos tópicos aqui já mencionado, podemos ainda falar sobre cerveja, é claro! :D
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="tiago-rogato-da-silveira-095563b6" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/tiago-rogato-da-silveira-095563b6?trk=profile-badge">Tiago Rogato da Silveira</a></div>
    
