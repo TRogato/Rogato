@@ -1,70 +1,181 @@
 # Rogato
+# 👩🏻‍💻 Larissa Kich
 
-<!--<p align="center">
-<img alt="Discord" src="https://img.shields.io/discord/769953234965889026?label=Pessoas%20no%20Discord&style=plastic">
+**`Desenvolvedora FullStack`**
+
+Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+
+<p align="left">
+    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.youtube.com/@larissakich">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+    </a> 
+    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Larissakich?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
-<p align="center">
-  <a href="http://youtube.com/linuxtips?sub_confirmation=1">
-    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCJnKVGmXRXrH49Tvrx5X0Sw?style=social">
-  </a>
-  <a href="http://youtube.com/linuxtips?sub_confirmation=1">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJnKVGmXRXrH49Tvrx5X0Sw?style=social">
-  </a>
-  <a href="http://twitch.tv/linuxtips?sub_confirmation=1">
-    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/linuxtips?style=social">
-  </a>
-  <a href="http://github.com/badtuxx">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/badtuxx?style=social">
-  </a>
-  <a href="http://twitter.com/badtux_">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/badtux_?style=social">
-  </a>
-  <a href="http://twitter.com/linuxtipsbr">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/LINUXtipsBR?style=social">
-  </a>
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
 
-<p align="center">
-  <a href="https://hub.docker.com/r/linuxtips/alertmanager_alpine">
-    <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/linuxtips/alertmanager_alpine?label=alertmanager_alpine%20image%20pulls&style=plastic">
-  </a>
-  <a href="https://hub.docker.com/r/linuxtips/prometheus_alpine">
-    <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/linuxtips/prometheus_alpine?label=prometheus_alpine%20image%20pulls&style=plastic">
-  </a>
-  <a href="https://hub.docker.com/r/linuxtips/node-exporter_alpine">
-    <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/linuxtips/node-exporter_alpine?label=node-exporter_alpine%20image%20pulls&style=plastic">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/badtuxx/DescomplicandoKubernetes">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/badtuxx/descomplicandokubernetes?label=Descomplicando%20Kubernetes&style=social">
-  </a>
-  <a href="https://github.com/badtuxx/descomplicandoDocker">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/badtuxx/descomplicandoDocker?label=Descomplicando%20Docker&style=social">
-  </a>
-  <a href="https://github.com/badtuxx/descomplicandoPrometheus">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/badtuxx/descomplicandoPrometheus?label=Descomplicando%20Prometheus&style=social">
-  </a>
-  <a href="https://github.com/badtuxx/CertifiedContainersExpert">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/badtuxx/CertifiedContainersExpert?label=CertifiedContainersExpert&style=social">
-  </a>
-  <a href="https://github.com/badtuxx/DescomplicandoGit">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/badtuxx/DescomplicandoGit?label=Descomplicando%20Git&style=social">
-  </a>
-  <a href="https://github.com/badtuxx/DescomplicandoArgoCD">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/badtuxx/DescomplicandoArgoCD?label=Descomplicando%20ArgoCD&style=social">
-  </a>
-  <a href="https://github.com/badtuxx/Giropops-Monitoring">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/badtuxx/Giropops-Monitoring?label=Giropops%20Monitoring&style=social">
-  </a>
-  <a href="https://github.com/badtuxx/DescomplicandoHelm">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/badtuxx/DescomplicandoHelm?label=Descomplicando%20Helm&style=social">
-  </a>
-                <a href="https://github.com/badtuxx/convencendo-seu-chefe">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/badtuxx/convencendo-seu-chefe?label=convencendo-seu-chefe&style=social">
-</p>-->
 
 
 ### :sound: Seja muito bem-vindo, seja muito bem-vinda a mais um vídeo aqui no canal... Ops, lugar errado. 
@@ -78,19 +189,4 @@ Opa, meu nome é Tiago.
 - 💬 Gosto de cerveja, principalmente IPA, então além dos tópicos aqui já mencionado, podemos ainda falar sobre cerveja, é claro! :D
 
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="tiago-rogato-da-silveira-095563b6" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/tiago-rogato-da-silveira-095563b6?trk=profile-badge">Tiago Rogato da Silveira</a></div>
-              
-
-<!--
-**badtuxx/badtuxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   
