@@ -69,11 +69,11 @@
 
 ### :sound: Seja muito bem-vindo, seja muito bem-vinda a mais um vídeo aqui no canal... Ops, lugar errado. 
 
-Opa, meu nome é Jeferson, sou o fundador do canal do Youtube LINUXtips e atualmente sou pago para resolver problemas utilizando Linux, containers, automação e muito, mas muito DevOps. 
+Opa, meu nome é Tiago. 
 
-- :rocket: Atualmente trabalho como Platform Engineer na Prosus e Toqan AI.
+- :rocket: Atualmente trabalho com um Grupo de empresas.
 
-- :tv: Gosto de falar sobre Linux, DevOps, Docker, Kubernetes, automação, AI e muito mais no [Canal LINUXtips](https://youtube.com/linuxtips)
+- :tv: Gosto de falar sobre Linux, DevOps, Docker, Kubernetes, automação, AI e muito mais. obs: Sempre buscando novas ideias. 
 
 - 💬 Gosto de cerveja, principalmente IPA, então além dos tópicos aqui já mencionado, podemos ainda falar sobre cerveja, é claro! :D
 
